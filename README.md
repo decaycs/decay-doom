@@ -18,7 +18,7 @@ Welcome! This is the decay port for Doom Emacs!
 
 ```sh
 git clone https://github.com/decaycs/decay-doom.git
-cd decay-helix
+cd decay-doom
 cp -r themes/* ~/.config/doom/themes 
 # or if you already have a themes directory
 cp themes/* ~/.config/doom/themes/
